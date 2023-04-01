@@ -1,6 +1,6 @@
 # NeuroSpell
 
-NeuroSpell bug report and discussions
+[NeuroSpell](https://neurospell.com) bug report and discussions
 
 # Linked projects
 
