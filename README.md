@@ -1,6 +1,6 @@
 # NeuroSpell
 
-[NeuroSpell](https://neurospell.com) bug report and discussions
+This repository is for bug reports and discussions about [NeuroSpell](https://neurospell.com).
 
 # Linked projects
 
