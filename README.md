@@ -7,6 +7,7 @@ This repository is for bug reports and discussions about [NeuroSpell](https://ne
 https://github.com/EtienneAb3d/karaok-AI<br/>
 https://github.com/EtienneAb3d/WhisperHallu <br/>
 https://github.com/EtienneAb3d/WhisperTimeSync<br/>
+https://github.com/EtienneAb3d/ChatMate<br/>
 https://github.com/EtienneAb3d/OpenNeuroSpell<br/>
 
 <hr>
